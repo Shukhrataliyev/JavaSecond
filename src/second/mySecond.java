@@ -1,5 +1,7 @@
 package second;
 
+import java.util.Iterator;
+
 public class mySecond {
 
 	public static void main(String[] args) {
@@ -8,6 +10,12 @@ public class mySecond {
 		System.out.println("Basketball");
 
 		System.out.println( "hello everybody");
+		
+		for (int i = 0; i < 10; i++) {
+		System.out.println(i);	
+		}
+		
+		System.out.println("hello");
 	}
 
 }
