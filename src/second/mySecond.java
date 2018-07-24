@@ -17,6 +17,7 @@ public class mySecond {
 		
 		System.out.println("make it");
 		
+		System.out.println("afasffa");
 	}
 
 }
