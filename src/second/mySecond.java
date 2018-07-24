@@ -9,8 +9,6 @@ public class mySecond {
 		System.out.println("voleyball");
 		System.out.println("Basketball");
 
-		System.out.println( "hello everybody");
-		
 		for (int i = 0; i < 10; i++) {
 		System.out.println(i);	
 		}
